@@ -57,10 +57,10 @@ const CONFIG = {
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#ffafbd",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#ffc3a0",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
-        buttonHover: "#ff8787",          // Button hover color (slightly lighter than buttonBackground)
+        backgroundStart: "#80ef80",      // Gradient start (try pastel colors for a soft look)
+        backgroundEnd: "#5ea792",        // Gradient end (should complement backgroundStart)
+        buttonBackground: "#add8e6",     // Button color (should stand out against the background)
+        buttonHover: "#ffb6c1",          // Button hover color (slightly lighter than buttonBackground)
         textColor: "#ff4757"             // Text color (make sure it's readable!)
     },
 
@@ -78,9 +78,9 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://music.apple.com/us/album/cari%C3%B1o/1436703562?i=1436703569", // Music streaming URL
-        startText: "🎵 Play Music",        // Button text to start music
-        stopText: "🔇 Stop Music",         // Button text to stop music
+        musicUrl: "https://music.apple.com/us/album/cari%C3%B1o/1436703562?i=1436703569"// Music streaming URL
+        startText: "🎶 Play the tune",        // Button text to start music
+        stopText: "🔇 No musica",         // Button text to stop music
         volume: 0.8                        // Volume level (0.0 to 1.0)
     }
 };
