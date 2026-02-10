@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Oli my sweet boy",
+    valentineName: "Oli",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -23,7 +23,7 @@ const CONFIG = {
     questions: {
         first: {
             text: "Do you like me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
+            yesBtn: "Of course!",                                             // Text for "Yes" button
             noBtn: "Nope",                                               // Text for "No" button
             secretAnswer: "Te emo 🤘👩🏻‍❤️‍💋‍👨🏻"           // Secret hover message
         },
