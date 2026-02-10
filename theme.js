@@ -1,6 +1,6 @@
 // Update CSS variables from configuration
 function applyTheme() {
-    const config = window.VALENTINE_CONFIG;
+    const config = window.Love_CONFIG;
     const root = document.documentElement;
 
     // Apply colors
